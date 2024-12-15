@@ -27,5 +27,8 @@
     <ClCompile Include="lesson013.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lesson014.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
