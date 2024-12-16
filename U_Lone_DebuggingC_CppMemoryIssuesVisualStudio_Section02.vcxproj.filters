@@ -36,6 +36,9 @@
     <ClCompile Include="lesson016.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="My_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="utils.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

@@ -135,6 +135,7 @@
     <ClCompile Include="lesson014.cpp" />
     <ClCompile Include="lesson015.cpp" />
     <ClCompile Include="lesson016.cpp" />
+    <ClCompile Include="My_utils.cpp" />
     <ClCompile Include="utils.cpp" />
   </ItemGroup>
   <ItemGroup>

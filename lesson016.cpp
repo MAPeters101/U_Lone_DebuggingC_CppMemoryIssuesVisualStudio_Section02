@@ -8,7 +8,7 @@ using namespace std;
 
 
 int main() {
-	HINSTANCE hDll = LoadLibraryA(R"(..\..\VBCppDll\Debug|VSCppdll.dll)");
+	HINSTANCE hDll = LoadLibraryA(R"(..\..\VSCppDll\Debug\VSCppdll.dll)");
 	if (hDll == NULL) {
 		puts("Could not load dll");
 		return -1;
