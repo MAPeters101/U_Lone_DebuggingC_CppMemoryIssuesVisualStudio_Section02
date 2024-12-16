@@ -21,7 +21,7 @@ int main() {
 	}
 	try {
 		int rows = 1000;
-		int columns = 1000000;
+		int columns = 100;
 		int** pData = pfn(rows, columns);
 		if (pData == NULL) {
 			printf("Data could not be retrieved\n");
